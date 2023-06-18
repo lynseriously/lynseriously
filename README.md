@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Chen Li
-- 👀 I’m interested in due diligence on Portfolio, strategy, stocks/funds research
+- 👋 Hello, I’m Chen Li
+- 👀 I’m interested in data analysis, due diligence on Portfolio, strategy, stocks/funds research
 - 📫 How to reach me: forlichen@gmail.com
 
 <!---
